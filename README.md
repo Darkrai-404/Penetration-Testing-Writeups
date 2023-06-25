@@ -14,7 +14,9 @@ The repository consists of various penetration testing writeups on vulnerable ma
 
 
 ##  1. <a name='Jangow01'></a>Jangow 01
-Jangow01 is a vulnerable machine designed to help students in preparing for certifications such as OSCP, ejpt as well as practicing various penetration testing methodologies.
+Jangow01 is a vulnerable machine centered around enumeration. It focuses on poorly configured webpages leading to data leakage.
+
+[Read Documentation](https://github.com/Darkrai-404/penetration-testing-writeups/blob/main/Documents/Writeups/Jangow01/README.md) 
 
 ##  2. <a name='CVE-2014-627Shellshock'></a>CVE-2014-627 Shellshock
 
