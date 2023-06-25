@@ -3,15 +3,14 @@ The repository consists of various penetration testing writeups on vulnerable ma
 
 # Table of Contents
 <!-- vscode-markdown-toc -->
-* 1. [Jangow 01](#Jangow01)
-* 2. [CVE-2014-627 Shellshock](#CVE-2014-627Shellshock)
+* [Jangow 01](#Jangow01)
+* [CVE-2014-627 Shellshock](#CVE-2014-627Shellshock)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-
 
 
 ##  1. <a name='Jangow01'></a>Jangow 01
@@ -21,4 +20,4 @@ Jangow01 is a vulnerable machine designed to help students in preparing for cert
 
 Shellshock is a vulnerability that allows systems containing a vulnerable version of Bash to be exploited to execute commands with higher privileges. This allows attackers to potentially take over that system. In the demo, we will learn how to detect and exploit such vulnerabilities in a given target.
 
-[Read Documentation](Documents/CVE-2014-6271-Shellshock-Vulnerability)
+[Read Documentation](https://github.com/Darkrai-404/penetration-testing-writeups/blob/main/Documents/Writeups/CVE-2014-6271-ShellShock/README.md) 
