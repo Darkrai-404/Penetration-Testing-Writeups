@@ -5,6 +5,8 @@ Binary Exploitation is a broad topic within Cyber Security that comes down to fi
 
 My approach to solving buffer overflow binary exploitation problems is to follow a three-step approach. Understand the code, understand the output, and finally manipulate the output. First, it is very important to pay attention to the source code. The main idea of secure programming is to pay attention to how you code. One mistake by a programmer can cause unforeseen damage. So, before we run the code in a sandboxed environment, we will inspect the code visually.
 
+## Source code
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
